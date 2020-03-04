@@ -1,0 +1,1854 @@
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Entered into removeEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into currSize() method
+
+Entered into currSize() method
+
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Entered into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Entered into removeEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into next() method
+
+Entered into next() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+
+Entered into hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into currSize() method
+
+Entered into currSize() method
+
+12
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited into ensureCapacity() method
+
+Entered into addEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Exited into hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Exited into removeEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Entered into next() method
+
+Exited into next() method
+
+Entered into hasNext() method
+
+Exited into hasNext() method
+
+Exited into hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into getEle() method
+
+Entered into getEle() method
+
+null
+Entered into currSize() method
+
+Exited into currSize() method
+
+12
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Entered from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Entered from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Entered from addEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Exited from removeEle() method
+
+Entered into toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Entered from getEle() method
+
+null
+Entered into getEle() method
+
+Entered from getEle() method
+
+null
+Entered into currSize() method
+
+Exited from currSize() method
+
+12
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Exited from removeEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+Entered into currSize() method
+
+Exited from currSize() method
+
+12
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Exited from removeEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+The Element is 
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+The Element is 
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+Entered into currSize() method
+
+Exited from currSize() method
+
+12
+Exited into main() method
+
+Entered into main() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into addEle() method
+
+Entered into ensureCapacity() method
+
+Exited from ensureCapacity() method
+
+Exited from addEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into removeEle() method
+
+Exited from removeEle() method
+
+Entered into toString() method
+
+Exited from toString() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Entered into next() method
+
+Exited from next() method
+
+Entered into hasNext() method
+
+Exited from hasNext() method
+
+Exited from hasNext() method
+[null,null,null,null,null,null,null,null,null,Sai,Supriya,Jashhu]
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+Entered into getEle() method
+
+Exited from getEle() method
+
+null
+Entered into currSize() method
+
+Exited from currSize() method
+
+12
+Exited into main() method
+
